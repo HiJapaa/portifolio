@@ -461,6 +461,11 @@ span {
     .projetos h2 {
         margin-bottom: 3rem;
     }
+    
+    .projetos-box img {
+        width: 350px;
+        heigth: 550px;
+    }
 }
 
 @media (max-width: 617px) {
