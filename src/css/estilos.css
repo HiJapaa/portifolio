@@ -205,6 +205,7 @@ span {
     width: 785px;
     height: 530px;
     transition: .5s ease;
+    opacity: .5;
 }
 
 .respons {
