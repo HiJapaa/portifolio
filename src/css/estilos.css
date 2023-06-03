@@ -403,6 +403,14 @@ span {
     .footer {
         padding: 2rem 3%;
     }
+    
+    .normal {
+        display: none;
+    }
+    
+    .respons {
+        display: block;
+    }
 }
 
 @media (max-width: 768px) {
@@ -469,14 +477,6 @@ span {
     .projetos-box img {
         width: 350px;
         heigth: 550px;
-    }
-    
-    .normal {
-        display: none;
-    }
-    
-    .respons {
-        display: block;
     }
 }
 
