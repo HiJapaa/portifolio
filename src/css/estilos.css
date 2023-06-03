@@ -202,7 +202,8 @@ span {
 }
 
 .projetos-box img {
-    width: 100%;
+    width: 785px;
+    height: 530px;
     transition: .5s ease;
 }
 
