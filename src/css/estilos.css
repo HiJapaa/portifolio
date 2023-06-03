@@ -207,6 +207,10 @@ span {
     transition: .5s ease;
 }
 
+.respons {
+    display: none;
+}
+
 .projetos-box:hover img {
     transform: scale(1.1);
 }
@@ -465,6 +469,14 @@ span {
     .projetos-box img {
         width: 350px;
         heigth: 550px;
+    }
+    
+    .normal {
+        display: none;
+    }
+    
+    .respons {
+        display: block;
     }
 }
 
